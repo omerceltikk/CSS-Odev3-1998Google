@@ -1,0 +1,72 @@
+body {
+    margin: auto;
+    border: 0; 
+    width: 90%; 
+}
+.top {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+
+.logo {
+    width: 351px;
+    height: 113px;
+}
+.middle-box {
+    border: 0;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.grey-box {
+    background-color: rgb(238, 238, 238);
+    text-align: -webkit-center;
+    border-spacing: 2px;
+}
+
+ul {
+    list-style:none;
+}
+
+.green-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+
+.box1 {
+    width: 38%;
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 1px;
+   
+}
+.box2 {
+    text-align:center;
+    background-color: rgb(112, 204, 194);
+    font-size: small;  
+    width: 22%;
+    margin-top: 2px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.box3 {
+    background-color: rgb(98, 179, 170);
+    text-align:center;
+    font-size: small;
+    align-items: flex-end;
+    width: 40%;
+    margin-top: 2px;
+    margin-left: 1px;
+}
+
+footer {
+    text-align: center;
+
+}
